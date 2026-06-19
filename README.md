@@ -103,8 +103,9 @@ Three-class classification is harder due to the challenge of separating NREM and
 ```
 sleep-stage-classification/
 ├── data/               # Instructions for downloading the PhysioNet dataset
-├── notebooks/          # Main analysis notebook
+├── code/               # Main analysis notebook
 ├── report/             # Full project report (PDF)
+├── charts/             # Charts used in report
 ├── figures/            # ROC curves, confusion matrices, hypnograms
 └── README.md
 ```
